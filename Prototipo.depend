@@ -1,0 +1,3615 @@
+# depslib dependency file v1.0
+1382034081 source:c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1381983276 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\graficos.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_image.h"
+
+1382033975 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1382033932 source:d:\dropbox\proyectos c++\prototipo\prototipo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1381972476 d:\dropbox\proyectos c++\prototipo\prototipo\include\graficos.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_image.h"
+
+1382033975 d:\dropbox\proyectos c++\prototipo\prototipo\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1381705305 d:\dropbox\proyectos c++\prototipo\prototipo\include\figuras.h
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326121786 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_platform.h
+
+1326121794 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326121800 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\begin_code.h
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\close_code.h
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_keysym.h
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325749438 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381172740 d:\dropbox\proyectos c++\prototipo\prototipo\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326132586 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_platform.h
+
+1326132594 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326132600 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\begin_code.h
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\close_code.h
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_keysym.h
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381183540 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381716104 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipo\prototipo\include\figuras.h
+
+1382021657 source:c:\users\backup_labs\desktop\prototipo\prototipo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1381983276 c:\users\backup_labs\desktop\prototipo\prototipo\include\graficos.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_image.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326132586 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_platform.h
+
+1326132594 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326132600 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\begin_code.h
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\close_code.h
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_keysym.h
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381183540 c:\users\backup_labs\desktop\prototipo\prototipo\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381716104 c:\users\backup_labs\desktop\prototipo\prototipo\include\figuras.h
+
+1382021724 c:\users\backup_labs\desktop\prototipo\prototipo\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1382620444 source:c:\users\backup_labs\desktop\prototipo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1381983276 c:\users\backup_labs\desktop\prototipo\include\graficos.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_image.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326132586 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_platform.h
+
+1326132594 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326132600 c:\users\backup_labs\desktop\prototipo\include\sdl\begin_code.h
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\close_code.h
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_keysym.h
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325760238 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381183540 c:\users\backup_labs\desktop\prototipo\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381716104 c:\users\backup_labs\desktop\prototipo\include\figuras.h
+
+1382044774 c:\users\backup_labs\desktop\prototipo\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1383857751 source:d:\dropbox\proyectos c++\prototipobkp\prototipo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"include/juego.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1383857682 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\graficos.h
+	<cstring>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326143386 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_platform.h
+
+1326143394 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326143400 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\begin_code.h
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\close_code.h
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_keysym.h
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381194340 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381726904 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\figuras.h
+
+1383857613 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1383326951 source:c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1383324368 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\graficos.h
+	<cstring>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326143386 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_platform.h
+
+1326143394 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326143400 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\begin_code.h
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\close_code.h
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_keysym.h
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381194340 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381726904 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\figuras.h
+
+1383420140 c:\users\cristian7\dropbox\proyectos c++ (1)\prototipobkp\prototipo\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1383230774 source:c:\users\backup_labs\desktop\prototipobkp\prototipo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1383227995 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\graficos.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_image.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326143386 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_platform.h
+
+1326143394 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326143400 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\begin_code.h
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\close_code.h
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_keysym.h
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381194340 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381726904 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\figuras.h
+
+1383228746 c:\users\backup_labs\desktop\prototipobkp\prototipo\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1381194370 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1383580881 d:\dropbox\proyectos c++\prototipobkp\prototipo\include\juego.h
+
+1383832854 source:c:\users\backup_labs\downloads\prototipobkp\prototipo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"include/juego.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1383580881 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\juego.h
+
+1383833181 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\graficos.h
+	<cstring>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326143386 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_platform.h
+
+1326143394 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326143400 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\begin_code.h
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\close_code.h
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_keysym.h
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381194340 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381726904 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\figuras.h
+
+1383835498 c:\users\backup_labs\downloads\prototipobkp\prototipo\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1384387097 source:c:\users\cristian7\desktop\7-11-13\prototipo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"include/juego.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1383580881 c:\users\cristian7\desktop\7-11-13\prototipo\include\juego.h
+
+1383857682 c:\users\cristian7\desktop\7-11-13\prototipo\include\graficos.h
+	<cstring>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326143386 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_platform.h
+
+1326143394 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326143400 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\begin_code.h
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\close_code.h
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_keysym.h
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381194340 c:\users\cristian7\desktop\7-11-13\prototipo\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381726904 c:\users\cristian7\desktop\7-11-13\prototipo\include\figuras.h
+
+1383868859 c:\users\cristian7\desktop\7-11-13\prototipo\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1384887015 source:d:\dropbox\proyectos c++\menu\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"include/juego.h"
+	"include/usuario.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1384561779 d:\dropbox\proyectos c++\menu\include\juego.h
+
+1384887159 d:\dropbox\proyectos c++\menu\include\graficos.h
+	<cstring>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326154186 d:\dropbox\proyectos c++\menu\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_platform.h
+
+1326154194 d:\dropbox\proyectos c++\menu\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326154200 d:\dropbox\proyectos c++\menu\include\sdl\begin_code.h
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\close_code.h
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_keysym.h
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 d:\dropbox\proyectos c++\menu\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381205140 d:\dropbox\proyectos c++\menu\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381737704 d:\dropbox\proyectos c++\menu\include\figuras.h
+
+1384440882 d:\dropbox\proyectos c++\menu\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1384887262 source:c:\users\cristian7\dropbox\proyectos c++ (1)\menu\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"include/juego.h"
+	"include/usuario.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1384561779 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\juego.h
+
+1384887159 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\graficos.h
+	<cstring>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326143386 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_platform.h
+
+1326143394 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326143400 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\begin_code.h
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\close_code.h
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_keysym.h
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381194340 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381726904 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\figuras.h
+
+1384440882 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1384886914 d:\dropbox\proyectos c++\menu\include\usuario.h
+
+1384441136 source:c:\users\backup_labs\downloads\menu\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"include/juego.h"
+	"include/usuario.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1384430897 c:\users\backup_labs\downloads\menu\include\juego.h
+
+1384437142 c:\users\backup_labs\downloads\menu\include\usuario.h
+
+1384436704 c:\users\backup_labs\downloads\menu\include\graficos.h
+	<cstring>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326154186 c:\users\backup_labs\downloads\menu\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_platform.h
+
+1326154194 c:\users\backup_labs\downloads\menu\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326154200 c:\users\backup_labs\downloads\menu\include\sdl\begin_code.h
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\close_code.h
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_keysym.h
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325781838 c:\users\backup_labs\downloads\menu\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381205140 c:\users\backup_labs\downloads\menu\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381737704 c:\users\backup_labs\downloads\menu\include\figuras.h
+
+1384440882 c:\users\backup_labs\downloads\menu\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1384437142 c:\users\cristian7\dropbox\proyectos c++ (1)\menu\include\usuario.h
+
+1385265631 source:d:\dropbox\proyectos c++\menu - copia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"include/juego.h"
+	"include/usuario.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1385237904 d:\dropbox\proyectos c++\menu - copia\include\juego.h
+
+1385223128 d:\dropbox\proyectos c++\menu - copia\include\usuario.h
+
+1385223154 d:\dropbox\proyectos c++\menu - copia\include\graficos.h
+	<cstring>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326143386 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_platform.h
+
+1326143394 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326143400 d:\dropbox\proyectos c++\menu - copia\include\sdl\begin_code.h
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\close_code.h
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_keysym.h
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381194340 d:\dropbox\proyectos c++\menu - copia\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381726904 d:\dropbox\proyectos c++\menu - copia\include\figuras.h
+
+1385231410 d:\dropbox\proyectos c++\menu - copia\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1385312139 source:c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"include/juego.h"
+	"include/usuario.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1385237904 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\juego.h
+
+1385223128 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\usuario.h
+
+1385223154 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\graficos.h
+	<cstring>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326143386 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_platform.h
+
+1326143394 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326143400 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\begin_code.h
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\close_code.h
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_keysym.h
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381194340 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381726904 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\figuras.h
+
+1385231410 c:\users\cristian7\dropbox\proyectos c++ (1)\menu - copia\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1385277225 source:c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"include/juego.h"
+	"include/usuario.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1385237904 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\juego.h
+
+1385223128 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\usuario.h
+
+1385223154 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\graficos.h
+	<cstring>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326143386 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_platform.h
+
+1326143394 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326143400 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\begin_code.h
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\close_code.h
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_keysym.h
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381194340 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381726904 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\figuras.h
+
+1385231410 c:\users\cristian note\dropbox\proyectos c++ (1)\menu - copia\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1385312139 source:c:\users\cristian note\desktop\menu - copia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<stdio.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"include/juego.h"
+	"include/usuario.h"
+	"include/graficos.h"
+	"include/figuras.h"
+	"include/grilla.h"
+
+1385237904 c:\users\cristian note\desktop\menu - copia\include\juego.h
+
+1385223128 c:\users\cristian note\desktop\menu - copia\include\usuario.h
+
+1385223154 c:\users\cristian note\desktop\menu - copia\include\graficos.h
+	<cstring>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326143386 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_platform.h
+
+1326143394 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326143400 c:\users\cristian note\desktop\menu - copia\include\sdl\begin_code.h
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\close_code.h
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_keysym.h
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325771038 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381194340 c:\users\cristian note\desktop\menu - copia\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1381726904 c:\users\cristian note\desktop\menu - copia\include\figuras.h
+
+1385231410 c:\users\cristian note\desktop\menu - copia\include\grilla.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
